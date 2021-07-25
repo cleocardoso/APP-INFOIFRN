@@ -1,7 +1,8 @@
 import 'react-native-gesture-handler';
 import React from 'react';
 import { StyleSheet,StatusBar} from 'react-native';
-import { Routes } from './src/routes'; 
+//import { Routes } from './src/routes'; 
+import { Routes } from './src/routes2'; 
 import { NavigationContainer } from '@react-navigation/native';
 import { SafeAreaView } from "react-native";
 import GlobalStyles from './src/styles/GlobalStyles';

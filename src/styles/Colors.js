@@ -1,5 +1,5 @@
 export default {
-    primary: '#0c6980',
+    primary: '#2E8B57',
     //primary: '#4056a1',
     //primary: '#3399ff',
     // primary: '#f7287b',
@@ -32,5 +32,6 @@ export default {
     modalDropdownColor: '#1acece',
     headerText: '#c4dbe0',
     hamburgerMenu: '#c4dbe0'  ,
-    Text:'#2E8B57'
+    Text:'#2E8B57',
+    Text1:'#808080'
   }
