@@ -84,6 +84,8 @@ function parte4StackScreen() {
       <SuperiorStack.Screen name="Superior" component={Superior} options={{ title: 'Cursos Superior', headerTitleAlign: 'center' }}/>
       <SuperiorStack.Screen name="Ads" component={Ads} options={{ title: 'Graduação de ADS', headerTitleAlign: 'center' }}/>
       <SuperiorStack.Screen name="Quimica" component={Quimica} options={{ title: 'Graduação em Química', headerTitleAlign: 'center' }}/>
+      <SuperiorStack.Screen name="PosGraduacao" component={PosGraduacao} options={{ title: 'Pós-Graduação', headerTitleAlign: 'center' }}/>
+      <SuperiorStack.Screen name="Cnaturais" component={Cnaturais} options={{ title: 'Especialização em Ensino de Ciências Naturais e Matemática', headerTitleAlign: 'center' }}/>
     </HomeStack.Navigator>
   )
 }
